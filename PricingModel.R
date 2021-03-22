@@ -1,4 +1,3 @@
-# MY CODE
 # HOUSE SALES IN KING COUNTY
 
 # Predicting the price of a house in King George County 
